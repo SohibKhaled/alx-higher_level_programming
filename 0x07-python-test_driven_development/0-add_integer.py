@@ -7,8 +7,8 @@ This module is composed by a function that adds two numbers
 def add_integer(x, y=98):
     """ Function that adds two integer and/or float numbers
     Args:
-        a: first number
-        b: second number
+        x: first number
+        y: second number
     Returns:
         The addition of the two given numbers
     Raises:
